@@ -29,9 +29,8 @@
 ---
 
 ## 📫 Contact Me  
-- 📧 **Email**: your.email@example.com  
+- 📧 **Email**: your.egaye068@gmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 🐦 [Twitter/X](https://twitter.com/yourusername) *(if professional)*  
 
 ---
 
