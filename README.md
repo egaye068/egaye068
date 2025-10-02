@@ -34,10 +34,4 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Ebrima's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbrimaGaye&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrimaGaye&layout=compact&theme=tokyonight)  
-
----
-
 ✨ *Always learning, always improving.* 🚀  
