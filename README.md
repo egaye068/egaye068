@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, i'am Ebrima Gaye a Bachelor's degree holder in Economic Developmet, and a beginner Data Analysis 
 
 <!--
 **egaye068/egaye068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
